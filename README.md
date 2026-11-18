@@ -1,5 +1,5 @@
 # NIP rent
-
+opis kpop
 Aplikacja do rozliczania najmowanych mieszkań.
 
 ## Getting started
